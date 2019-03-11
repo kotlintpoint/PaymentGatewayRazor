@@ -1,4 +1,4 @@
-package com.example.e_parking_2019;
+package com.example.gateway;
 
 import org.junit.Test;
 
